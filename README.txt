@@ -4,7 +4,8 @@ Overview -------------------------------------------------------------
 This folder contains files related to the interactive and animated data visualization of gene variant scores. To view the visualizations, you need to open the provided HTML file in a web browser.
 
 Instructions ---------------------------------------------------------
-1) Locate the file index.html in this folder.
+1) Download the repository.
+1) Locate the file index.html in this downloaded folder.
 2) Double-click on the index.html file, or right-click and select "Open with" and choose your preferred web browser.
 3) The plot will be displayed, and you can interact with it as needed.
 
